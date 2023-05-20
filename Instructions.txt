@@ -1,0 +1,5 @@
+---------Sneakerzone project------------
+1. Django-admin startproject SneakerZone
+2. python manage.py startapp core'
+3. settings.py and add app 'core' in the installed app 
+4. 
